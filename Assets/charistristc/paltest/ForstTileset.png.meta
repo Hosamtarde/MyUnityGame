@@ -1,0 +1,2050 @@
+fileFormatVersion: 2
+guid: 216f574c7a0614e47b406b5dcf19d4c1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ForstTileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e30c9de1eefd54992e55dff000611c
+      internalID: 1770204475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 361
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbef79a774cd064eb2fd15659bdca15
+      internalID: -1459251709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 361
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36da37df59ad4549a111ebbe051bb2f
+      internalID: -1745633057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 361
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8f0b38925cd1c45a786c0858000a49
+      internalID: 65829025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 361
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb67cd95310cbad408022c39d2d7de97
+      internalID: -1749476656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 361
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbebe782b7231a94c8e976e20e466004
+      internalID: -950895564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 361
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4a506c97cb2b24c9149f39c431ffd1
+      internalID: -44056618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 361
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f65b73e4cca2b549b811a7afd977164
+      internalID: 1822468112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 361
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f018aeff1ebe0a1468d6b057b8663416
+      internalID: 1951300615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_9
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 361
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6084d20557925d4bb7edcb4426eb3f5
+      internalID: -2460891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_10
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 361
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb958eb3949f094d8e2e73a2961bf6d
+      internalID: 1875232874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 311
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4b7425c33972545bc35a4e3ea4960b
+      internalID: 1620829189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 311
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c497a70edf45a1438f87eea57318553
+      internalID: -245340663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 311
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced63d053ad5dfa4698099e2421b4f6a
+      internalID: 1891975845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_14
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 311
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a346172ece8827b44b33d760b28690e2
+      internalID: 1439822241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 311
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbd3f8da83ed284faa0fd83578aeb39
+      internalID: -1169041820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_16
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 311
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c160e5a89b10e47b20d281bf9b56ba
+      internalID: 271108105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_17
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 311
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5fabc8586ffb746bc4838a3e0151ab
+      internalID: -1695190892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_18
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 311
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c062f5a648f435b4d9b926423032911a
+      internalID: -1544276510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 311
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32db306fd10ac9e4b984b98014f647fe
+      internalID: 1419924660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_20
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 311
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baa9a6e2ac17714183e4a1b9b93e4d9
+      internalID: 1016168086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_21
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 311
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814af5f77da364341b637813f20e788e
+      internalID: -1859854651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d009b754610c6594394eb829db6fbd7c
+      internalID: -182634467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_23
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 261
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab3cb7b09bd22d44a4ce9a2ca3dddf1
+      internalID: -1450811884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_24
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 261
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be23a0a7217f05d41b0f23ca7f3a9669
+      internalID: 511632575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_25
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 261
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb23df8b638bd740843477215f31468
+      internalID: -328683875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 261
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6a041f1603f594eb01898de79b7875
+      internalID: -1654187503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_27
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 261
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1076a2a8a9f05c04bb055122889cf70e
+      internalID: 1281962840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_28
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 261
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1658f0f6a5a05d409abc3821aee583f
+      internalID: 419347344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_29
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 261
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57aa6a0fa5689b746baea131f3a0bea5
+      internalID: -340075014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_30
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 261
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd42f403efaaec41b51294f3a1b1a3f
+      internalID: 2108771005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_31
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 261
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853704030f64a2d4bb69c9f9a7a0ea0f
+      internalID: 2012364531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_32
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 261
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65549963df83394ba3ddd2377866fc8
+      internalID: -912969213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 211
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949b48b6cb0ef8046b67dcc0bc4e32dd
+      internalID: -758490427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_34
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 211
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90644f86c6c7f2b49bfcc6edbbd7ade1
+      internalID: 269759992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_35
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 211
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7373f683b6b34f499f6b01fc6f1786f
+      internalID: -634509765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_36
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 211
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fab69f6d8b9ee469d5bf6e314b494e
+      internalID: 1424029657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_37
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 211
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9c6876b1d0ebf47ac791c259d3ca2c
+      internalID: -864091297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_38
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 211
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36519fe47fdf12b4eaca9db1e705d5aa
+      internalID: -1425555651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_39
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 211
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b20362c34eddb34cb0cd0fb88e104fa
+      internalID: 125635143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_40
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 211
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15fdce69b2aa074eb571b70e5ff7d89
+      internalID: 1782474108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_41
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 211
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9738643852d87ef4ca35c39db8e5adee
+      internalID: -1324444722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_42
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 211
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecead16a0dd6a24bbf2e50545125dd7
+      internalID: 568636063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_43
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 211
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46b907b79f840641b9796e28516d02b
+      internalID: -2070377452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7d6fd53cfe70f4cb9670a988922fc9
+      internalID: 590895749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_45
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 161
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e37892b6d910e4897c168a404db8e7
+      internalID: -1551217653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_46
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 161
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c983d9c37a392489a255a82b59adc4
+      internalID: 798242506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_47
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 161
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cdb626d4c5fbc48a4d489d91ad02db
+      internalID: -211707696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_48
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 161
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a5bb08f12c3584497ffefe27bddeff
+      internalID: 778265994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_49
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 161
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279b218cd39c2a84d9b8b2b93c7a4d1d
+      internalID: 729362787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_50
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 161
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcc7d6fb95f83f47a86639dabaf99b5
+      internalID: 1191906115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_51
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 161
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc82891ad2a626a46ba7294e19936f1c
+      internalID: 1302384036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_52
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 161
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445144cabf0785942921d5890505f768
+      internalID: 1268208122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_53
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 161
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1ea602c794ddc448a5af5e4588a74b
+      internalID: 1409219074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_54
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 161
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbe4fb69ef0274429960b1d7d2c51a4
+      internalID: -1889776141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb5000549c250f459b10c403419a10c
+      internalID: 314090028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_56
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 111
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b436c41f2ad977640876c78e4506ec35
+      internalID: -404658662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_57
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 111
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c76105a38016b7418362e4234458771
+      internalID: -156842467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_58
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 111
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00efdda797a05344cb5b1150667b193a
+      internalID: -1181214729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_59
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 111
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e46280ca2e2f14c913ab3b96fcbdba
+      internalID: 343139141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_60
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 111
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fc389794c901348b14384a93af2d5e
+      internalID: 1091023048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_61
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 111
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb90eb1dac432a34f8cf7d47f0bd13e4
+      internalID: 1940858652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_62
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 111
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5132e7afe928f498a4467ac9c452a6
+      internalID: 840585223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_63
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 111
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4bc5937c5127a4babee037e930bf8a
+      internalID: -470703648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_64
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 111
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b74d382a1b4a1449a2de2396c253bd6
+      internalID: -1809140030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 111
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717ad414b930e894a8efcd47a8a53c11
+      internalID: 432183043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b682ee18c4104647aa4f11a54627a38
+      internalID: -105541085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_67
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 61
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091d727c07dd7d946a25d040024a9253
+      internalID: 467869635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_68
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 61
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a56d6eb0a5b1a438c8b8fa2c863f19
+      internalID: -643286221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_69
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 61
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f260ddcf0136f54180413400cf1faff
+      internalID: 1297585919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_70
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 61
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f338fa2b38e110c4baf8e0dde6a61f0e
+      internalID: 296766044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_71
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 61
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4035c606ea598d4e9e88b1ab134dcc7
+      internalID: 1958140901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_72
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 61
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4200726554b3b4d9f465178de5fc90
+      internalID: 250526610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_73
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 61
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75354e4c51a8ae42bef3844e0885ab4
+      internalID: 1190537343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_74
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 61
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c78661f190c8f4cb29bf91e5a5327d
+      internalID: 1640561018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_75
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 61
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fa53f6e754c274fa38f37dbb9465c2
+      internalID: -1743765496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_76
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 61
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e14b3daf2fede459ce02f7a08b14cd
+      internalID: 1992106948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca992cae4bd5b224b9a83e0675d50b78
+      internalID: 1865950293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_78
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 11
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644dcc8755a41ec4cb02d79bd5e0c396
+      internalID: -1074397716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_79
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 11
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753e4f5d0395af243b2cec96b6c67802
+      internalID: 1894541744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_80
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 11
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8481a050b6f9d5a4b8cde086d46fd2f4
+      internalID: -1431708999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_81
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 11
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4779190a8c02e45ae78ccf85b468af
+      internalID: -743673632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_82
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 11
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c943f0d0f54b842811de970da6972a
+      internalID: -266780877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_83
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 11
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024436caca81569489f2c7c055f2a355
+      internalID: 1525052456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_84
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 11
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca0bfd916f09eb45b4fca8625ef8b02
+      internalID: 1401853709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_85
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 11
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc183a8aef3dda4c940ffb833fad50d
+      internalID: 2118571330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_86
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 11
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce29cff1ad5f2c94cbe13dbf4fb0230d
+      internalID: 647844819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForstTileset_87
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 11
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b689907602d4e3b4d919a821748594c1
+      internalID: 1887262503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ForstTileset_0: 1770204475
+      ForstTileset_1: -1459251709
+      ForstTileset_10: 1875232874
+      ForstTileset_11: 1620829189
+      ForstTileset_12: -245340663
+      ForstTileset_13: 1891975845
+      ForstTileset_14: 1439822241
+      ForstTileset_15: -1169041820
+      ForstTileset_16: 271108105
+      ForstTileset_17: -1695190892
+      ForstTileset_18: -1544276510
+      ForstTileset_19: 1419924660
+      ForstTileset_2: -1745633057
+      ForstTileset_20: 1016168086
+      ForstTileset_21: -1859854651
+      ForstTileset_22: -182634467
+      ForstTileset_23: -1450811884
+      ForstTileset_24: 511632575
+      ForstTileset_25: -328683875
+      ForstTileset_26: -1654187503
+      ForstTileset_27: 1281962840
+      ForstTileset_28: 419347344
+      ForstTileset_29: -340075014
+      ForstTileset_3: 65829025
+      ForstTileset_30: 2108771005
+      ForstTileset_31: 2012364531
+      ForstTileset_32: -912969213
+      ForstTileset_33: -758490427
+      ForstTileset_34: 269759992
+      ForstTileset_35: -634509765
+      ForstTileset_36: 1424029657
+      ForstTileset_37: -864091297
+      ForstTileset_38: -1425555651
+      ForstTileset_39: 125635143
+      ForstTileset_4: -1749476656
+      ForstTileset_40: 1782474108
+      ForstTileset_41: -1324444722
+      ForstTileset_42: 568636063
+      ForstTileset_43: -2070377452
+      ForstTileset_44: 590895749
+      ForstTileset_45: -1551217653
+      ForstTileset_46: 798242506
+      ForstTileset_47: -211707696
+      ForstTileset_48: 778265994
+      ForstTileset_49: 729362787
+      ForstTileset_5: -950895564
+      ForstTileset_50: 1191906115
+      ForstTileset_51: 1302384036
+      ForstTileset_52: 1268208122
+      ForstTileset_53: 1409219074
+      ForstTileset_54: -1889776141
+      ForstTileset_55: 314090028
+      ForstTileset_56: -404658662
+      ForstTileset_57: -156842467
+      ForstTileset_58: -1181214729
+      ForstTileset_59: 343139141
+      ForstTileset_6: -44056618
+      ForstTileset_60: 1091023048
+      ForstTileset_61: 1940858652
+      ForstTileset_62: 840585223
+      ForstTileset_63: -470703648
+      ForstTileset_64: -1809140030
+      ForstTileset_65: 432183043
+      ForstTileset_66: -105541085
+      ForstTileset_67: 467869635
+      ForstTileset_68: -643286221
+      ForstTileset_69: 1297585919
+      ForstTileset_7: 1822468112
+      ForstTileset_70: 296766044
+      ForstTileset_71: 1958140901
+      ForstTileset_72: 250526610
+      ForstTileset_73: 1190537343
+      ForstTileset_74: 1640561018
+      ForstTileset_75: -1743765496
+      ForstTileset_76: 1992106948
+      ForstTileset_77: 1865950293
+      ForstTileset_78: -1074397716
+      ForstTileset_79: 1894541744
+      ForstTileset_8: 1951300615
+      ForstTileset_80: -1431708999
+      ForstTileset_81: -743673632
+      ForstTileset_82: -266780877
+      ForstTileset_83: 1525052456
+      ForstTileset_84: 1401853709
+      ForstTileset_85: 2118571330
+      ForstTileset_86: 647844819
+      ForstTileset_87: 1887262503
+      ForstTileset_9: -2460891
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
